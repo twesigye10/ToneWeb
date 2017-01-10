@@ -1,0 +1,19 @@
+{
+  "name": "toneweb",
+  "version": "1.0.0",
+  "description": "this is my first try",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twesigye10/ToneWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twesigye10/ToneWeb/issues"
+  },
+  "homepage": "https://github.com/twesigye10/ToneWeb#readme"
+}
