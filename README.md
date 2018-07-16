@@ -1,2 +1,2 @@
 # ToneWeb
-this is my first try
+This is my first try with Bootstrap and Angular JS
