@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/twesigye10/ToneWeb/issues"
   },
-  "homepage": "https://github.com/twesigye10/ToneWeb#readme"
+  "homepage": "https://github.com/twesigye10/ToneWeb#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
 }
